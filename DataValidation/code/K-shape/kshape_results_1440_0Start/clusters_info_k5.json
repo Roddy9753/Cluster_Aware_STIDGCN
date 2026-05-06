@@ -1,0 +1,110 @@
+{
+  "0": {
+    "size": 2,
+    "members": [
+      "Robin_education_Audrea",
+      "Robin_office_Saul"
+    ],
+    "rep_index": 43,
+    "rep_name": "Robin_office_Saul",
+    "rep_distance_to_center": 0.10544607438900788
+  },
+  "1": {
+    "size": 2,
+    "members": [
+      "Robin_education_Lizbeth",
+      "Shrew_office_Kenneth"
+    ],
+    "rep_index": 60,
+    "rep_name": "Shrew_office_Kenneth",
+    "rep_distance_to_center": 0.0851430771551911
+  },
+  "2": {
+    "size": 10,
+    "members": [
+      "Robin_lodging_Dorthy",
+      "Robin_lodging_Phillip",
+      "Robin_lodging_Elmer",
+      "Robin_lodging_Pricilla",
+      "Robin_lodging_Oliva",
+      "Robin_lodging_Celia",
+      "Robin_lodging_Donna",
+      "Robin_lodging_Renea",
+      "Robin_lodging_Armand",
+      "Robin_lodging_Janie"
+    ],
+    "rep_index": 38,
+    "rep_name": "Robin_lodging_Celia",
+    "rep_distance_to_center": 0.04201296892906348
+  },
+  "3": {
+    "size": 3,
+    "members": [
+      "Robin_education_Della",
+      "Mouse_health_Buddy",
+      "Mouse_science_Micheal"
+    ],
+    "rep_index": 5,
+    "rep_name": "Robin_education_Della",
+    "rep_distance_to_center": 6.9464434204746794e-12
+  },
+  "4": {
+    "size": 51,
+    "members": [
+      "Robin_public_Carolina",
+      "Robin_education_Zenia",
+      "Robin_office_Dina",
+      "Robin_education_Derick",
+      "Robin_education_Leslie",
+      "Robin_office_Sammie",
+      "Robin_education_Mercedes",
+      "Robin_education_Julius",
+      "Robin_education_Lashandra",
+      "Robin_office_Gayle",
+      "Robin_office_Shirlene",
+      "Robin_education_Madeline",
+      "Robin_education_Jasper",
+      "Robin_office_Wai",
+      "Robin_education_Terrance",
+      "Robin_office_Addie",
+      "Robin_education_Cecilia",
+      "Robin_education_Kiera",
+      "Robin_education_So",
+      "Robin_office_Maryann",
+      "Robin_office_Serena",
+      "Robin_education_Derrick",
+      "Robin_education_Megan",
+      "Robin_office_Adolph",
+      "Robin_office_Lindsay",
+      "Robin_education_Takako",
+      "Robin_office_Victor",
+      "Robin_education_Margarito",
+      "Robin_public_Cami",
+      "Robin_education_Kristopher",
+      "Robin_education_Billi",
+      "Robin_office_Donald",
+      "Robin_assembly_Colleen",
+      "Robin_office_Soledad",
+      "Robin_office_Antonina",
+      "Robin_office_Erma",
+      "Robin_office_Zelma",
+      "Robin_education_Karyl",
+      "Shrew_office_Sherill",
+      "Shrew_office_Rose",
+      "Shrew_office_Nora",
+      "Shrew_office_Katherine",
+      "Shrew_office_Ila",
+      "Shrew_office_Doug",
+      "Shrew_office_Doris",
+      "Shrew_office_Lin",
+      "Mouse_health_Modesto",
+      "Mouse_lodging_Vicente",
+      "Mouse_health_Justin",
+      "Mouse_health_Ileana",
+      "Mouse_health_Estela"
+    ],
+    "rep_index": 33,
+    "rep_name": "Robin_office_Victor",
+    "rep_distance_to_center": 0.029929467719634006
+  }
+}
