@@ -9,6 +9,9 @@ AGG与FB组合的配置，先验聚类标签的指定，需要在model_ClusterAw
 四个超过100MB的数据文件没有上传
 
 Cluster-aware-STIDGCN/data/electricityLondon/train.npz
+
 DataValidation/data/electricity.csv
+
 DataValidation/electricityLondon/electricityLondon.npz
+
 DataValidation/electricityLondon/train.npz
